@@ -37,5 +37,3 @@ class Unique(object):
     def __iter__(self):
         self.begin = 0
         return self
-
-

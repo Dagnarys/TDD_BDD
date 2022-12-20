@@ -1,8 +1,6 @@
-Feature: Get only unique elements of list
-
-  Scenario Outline: Getting list of unique elements
-    Given Some date
-    When Test
-    Then Test 2
-
-    Examples:
+#Feature: Get only unique elements of list
+#
+#Scenario: Getting list of unique elements
+#Given some data
+#When data is getting unique
+#Then data is unique
